@@ -1,0 +1,6 @@
+{
+  "name": "Annonces Mhalma",
+  "description": "Petites annonces avec photos pour les habitants de Mhalma Alger. Géolocalisation GPS stricte avec rayon réglable, expiration auto 7 jours, compte WhatsApp et portail admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
